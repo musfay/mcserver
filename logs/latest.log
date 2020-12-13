@@ -1,128 +1,29 @@
-[21:49:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:49:23] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:49:24] [Worker-Main-2/INFO]: Loaded 7 recipes
-[21:49:26] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:49:26] [Server thread/INFO]: Loading properties
-[21:49:26] [Server thread/INFO]: This server is running Paper version git-Paper-324 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[21:49:26] [Server thread/INFO]: Debug logging is disabled
-[21:49:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:49:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:49:26] [Server thread/INFO]: Default game type: SURVIVAL
-[21:49:26] [Server thread/INFO]: Generating keypair
-[21:49:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:49:26] [Server thread/INFO]: Using epoll channel type
-[21:49:27] [Server thread/INFO]: [DiscordSRV] Unknown user language TR.
-[21:49:27] [Server thread/INFO]: [DiscordSRV] If you fluently speak TR as well as English, see the GitHub repo to translate it!
-[21:49:27] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.21.0
-[21:49:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:49:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:49:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:49:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:49:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:49:27] [Server thread/INFO]: Preparing level "world"
-[21:49:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:49:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[21:49:28] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:28] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:28] [Server thread/INFO]: Time elapsed: 727 ms
-[21:49:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:49:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[21:49:29] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:29] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:29] [Server thread/INFO]: Time elapsed: 971 ms
-[21:49:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:49:29] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[21:49:30] [Server thread/INFO]: Time elapsed: 865 ms
-[21:49:30] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.21.0
-[21:49:30] [Server thread/INFO]: Running delayed init tasks
-[21:49:30] [Server thread/INFO]: Done (4.076s)! For help, type "help"
-[21:49:30] [Server thread/INFO]: Timings Reset
-[21:49:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (5925756e68bbc36ec0c67f0d4bceac050e0289d1)
-[21:49:34] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
-[21:49:34] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.21.0
-[21:49:34] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 75ms
-[21:55:48] [User Authenticator #1/INFO]: UUID of player MaestroJon is 49c565c5-0544-38d6-ac50-c16a60d52876
-[21:55:48] [Server thread/INFO]: MaestroJon joined the game
-[21:55:48] [Server thread/INFO]: MaestroJon[/[0:0:0:0:0:0:0:1%0]:33508] logged in with entity id 281 at ([world]1239.657330467804, 65.0, -161.76249998807907)
-[22:04:22] [Server thread/INFO]: MaestroJon fell from a high place
-[22:07:09] [Server thread/INFO]: MaestroJon has made the advancement [Best Friends Forever]
-[22:10:48] [Server thread/INFO]: [Server] haha köpek
-[22:11:15] [Async Chat Thread - #0/INFO]: <MaestroJon> gle
-[22:13:56] [Async Chat Thread - #1/INFO]: <MaestroJon> haha kürt
-[22:14:07] [Async Chat Thread - #1/INFO]: <MaestroJon> kedim nerden ulan
-[22:22:57] [User Authenticator #2/INFO]: UUID of player BeYONTRA is 78f40a59-ed1d-3f6d-a7ab-903e2050d851
-[22:22:58] [Server thread/INFO]: BeYONTRA joined the game
-[22:22:58] [Server thread/INFO]: BeYONTRA[/[0:0:0:0:0:0:0:1%0]:33706] logged in with entity id 3880 at ([world]1235.6793302189985, 67.92159999847412, -183.33049898421518)
-[22:28:11] [Server thread/INFO]: BeYONTRA was slain by Iron Golem
-[22:33:08] [Server thread/INFO]: MaestroJon has made the advancement [A Seedy Place]
-[22:34:22] [Server thread/INFO]: MaestroJon lost connection: Disconnected
-[22:34:22] [Server thread/INFO]: MaestroJon left the game
-[22:38:41] [User Authenticator #3/INFO]: UUID of player pingoric is de2f509d-d899-34ac-a485-17ad19bde760
-[22:38:41] [Server thread/INFO]: pingoric joined the game
-[22:38:42] [Server thread/INFO]: pingoric[/[0:0:0:0:0:0:0:1%0]:33976] logged in with entity id 6301 at ([world]-41.03086657405574, 68.0, 131.57443690106132)
-[22:39:38] [Server thread/INFO]: Teleported pingoric to BeYONTRA
-[22:39:44] [Server thread/INFO]: [Server] hadi eyw
-[22:39:47] [Async Chat Thread - #2/INFO]: <BeYONTRA> bb
-[22:40:24] [Server thread/INFO]: BeYONTRA has made the advancement [Ice Bucket Challenge]
-[22:40:32] [Server thread/INFO]: pingoric was blown up by Creeper
-[22:40:32] [Server thread/INFO]: pingoric lost connection: Disconnected
-[22:40:32] [Server thread/INFO]: pingoric left the game
-[22:40:35] [User Authenticator #4/INFO]: UUID of player pingoric is de2f509d-d899-34ac-a485-17ad19bde760
-[22:40:35] [Server thread/INFO]: pingoric joined the game
-[22:40:35] [Server thread/INFO]: pingoric[/[0:0:0:0:0:0:0:1%0]:33990] logged in with entity id 6794 at ([world]1273.8796694716293, 11.0, -111.24448757534624)
-[22:40:43] [Server thread/INFO]: [Server] haha za xd
-[22:40:52] [Server thread/INFO]: [Server] java 16 çıkmış amk
-[22:40:54] [Server thread/INFO]: [Server] yavaş
-[22:41:21] [Server thread/INFO]: pingoric lost connection: Disconnected
-[22:41:21] [Server thread/INFO]: pingoric left the game
-[22:42:46] [Server thread/INFO]: BeYONTRA has made the advancement [Hot Stuff]
-[22:42:50] [Server thread/INFO]: Villager EntityVillager['Butcher'/289, uuid='9c7dc919-fabc-4ba2-beba-a513625c4751', l='ServerLevel[world]', x=1241.70, y=65.00, z=-158.70, cx=77, cz=-10, tl=100014, v=true, d=false] died, message: 'Butcher was slain by Zombie'
-[22:45:16] [Server thread/INFO]: [Server] Villager EntityVillager['Butcher'/289, uuid='9c7dc919-fabc-4ba2-beba-a513625c4751', l='ServerLevel[world]', x=1241.70, y=65.00, z=-158.70, cx=77, cz=-10, tl=100014, v=true, d=false] died, message: 'Butcher was slain by Zombie'
-[22:45:30] [Server thread/INFO]: [Server] mal köylü
-[22:45:36] [Async Chat Thread - #3/INFO]: <BeYONTRA> mal
-[22:45:39] [Async Chat Thread - #3/INFO]: <BeYONTRA> lan
-[22:45:45] [Async Chat Thread - #3/INFO]: <BeYONTRA> amına koyayım bura bizim köy
-[22:49:51] [Server thread/INFO]: Villager EntityVillager['Cartographer'/293, uuid='3d424855-1dc5-471b-b9b8-a4653ab5a8a7', l='ServerLevel[world]', x=1193.30, y=68.00, z=-215.30, cx=74, cz=-14, tl=104846, v=true, d=false] died, message: 'Cartographer was slain by Zombie'
-[22:52:31] [Server thread/INFO]: [Server] ahmad ben harıl harıl kod yazıyorum video fln izliyorum arkada dc de ekran açık kasma var mı hiç
-[22:52:37] [Async Chat Thread - #4/INFO]: <BeYONTRA> yk
-[22:52:46] [Server thread/INFO]: [Server] götünü yiyeyim opensuse
-[22:52:54] [Async Chat Thread - #4/INFO]: <BeYONTRA> da anasını siktiğim kürsüsü 5. kez kayboluyor
-[22:53:00] [Server thread/INFO]: [Server] adamlar yapmış aga şapka çıkarmak düşer
-[22:53:11] [Async Chat Thread - #4/INFO]: <BeYONTRA> 2 tane kürse versene bana
-[22:53:30] [Async Chat Thread - #4/INFO]: <BeYONTRA> geldi
-[22:54:25] [Async Chat Thread - #4/INFO]: <BeYONTRA> bak gene gitti
-[22:54:35] [Server thread/INFO]: [Server] papermc bug
-[22:54:39] [Server thread/INFO]: [Server] haha za
-[22:54:42] [Server thread/INFO]: [Server] bok ye
-[22:54:47] [Async Chat Thread - #4/INFO]: <BeYONTRA> olm yolla
-[22:54:55] [Async Chat Thread - #4/INFO]: <BeYONTRA> 6. gitti amk
-[22:55:17] [Async Chat Thread - #4/INFO]: <BeYONTRA> 6 tane kitaplık gitti demek
-[22:56:08] [Server thread/INFO]: Villager EntityVillager['Amcı'/296, uuid='2b198625-43fb-407f-b66c-704f90fc90b3', l='ServerLevel[world]', x=1235.70, y=66.58, z=-182.33, cx=77, cz=-12, tl=115504, v=true, d=false] died, message: 'Amcı was slain by Wolf'
-[22:58:36] [Server thread/INFO]: [Server] yo ağla
-[23:00:00] [Server thread/INFO]: [Server] Villager EntityVillager['Amcı'/296, uuid='2b198625-43fb-407f-b66c-704f90fc90b3', l='ServerLevel[world]', x=1235.70, y=66.58, z=-182.33, cx=77, cz=-12, tl=115504, v=true, d=false] died, message: 'Amcı was slain by Wolf'
-[23:00:13] [Async Chat Thread - #5/INFO]: <BeYONTRA> benim köpke öldürdü
-[23:00:31] [Async Chat Thread - #5/INFO]: <BeYONTRA> orospu çoc tamir kitabı satmıyordu
-[23:01:29] [Server thread/INFO]: BeYONTRA has made the advancement [What a Deal!]
-[23:01:38] [Async Chat Thread - #6/INFO]: <BeYONTRA> sonunda amına koyayım
-[23:01:49] [Async Chat Thread - #6/INFO]: <BeYONTRA> 38 zümrüt istiyor ama
-[23:02:20] [Async Chat Thread - #6/INFO]: <BeYONTRA> kervan saratmıyım amına koyayım bulayım o kadar parayı
-[23:08:14] [Server thread/INFO]: BeYONTRA has made the advancement [Fishy Business]
-[23:10:20] [Server thread/INFO]: BeYONTRA has made the advancement [The Parrots and the Bats]
-[23:16:53] [Server thread/INFO]: BeYONTRA lost connection: Disconnected
-[23:16:53] [Server thread/INFO]: BeYONTRA left the game
-[23:21:37] [Server thread/INFO]: Stopping the server
-[23:21:37] [Server thread/INFO]: Stopping server
-[23:21:37] [Server thread/INFO]: Saving players
-[23:21:37] [Server thread/INFO]: Saving worlds
-[23:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:21:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:21:38] [Server thread/INFO]: Flushing Chunk IO
-[23:21:38] [Server thread/INFO]: Closing Thread Pool
-[23:21:38] [Server thread/INFO]: Closing Server
+[00:00:01] [Server thread/INFO]: [Server] yatacağım
+[00:00:05] [Async Chat Thread - #0/INFO]: <TiTanX71> BENİM
+[00:00:08] [Server thread/INFO]: [Server] sen kim
+[00:00:18] [Async Chat Thread - #0/INFO]: <TiTanX71> kumaş
+[00:00:22] [Server thread/INFO]: [Server] helal
+[00:00:26] [Server thread/INFO]: [Server] 15 dk n var
+[00:00:30] [Async Chat Thread - #0/INFO]: <TiTanX71> ok
+[00:00:42] [Server thread/INFO]: [Server] 15 dk sonra sunucuyu yedekleyip kapatacağım
+[00:11:06] [Server thread/INFO]: [Server] 5 dk son
+[00:11:10] [Async Chat Thread - #1/INFO]: <TiTanX71> ok
+[00:12:43] [Server thread/INFO]: [Server] sunucuyu github a anlık snapshot lıyorum sıkıntı olur fln günlük yedeklerimiz var
+[00:14:44] [Server thread/INFO]: TiTanX71 lost connection: Disconnected
+[00:14:44] [Server thread/INFO]: TiTanX71 left the game
+[00:16:31] [Server thread/INFO]: Stopping the server
+[00:16:31] [Server thread/INFO]: Stopping server
+[00:16:31] [Server thread/INFO]: Saving players
+[00:16:31] [Server thread/INFO]: Saving worlds
+[00:16:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:33] [Server thread/INFO]: Flushing Chunk IO
+[00:16:33] [Server thread/INFO]: Closing Thread Pool
+[00:16:33] [Server thread/INFO]: Closing Server
