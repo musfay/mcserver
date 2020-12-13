@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ab5efff8-4fb7-4a86-90f1-97fa2d29ef2e",
+    "name": "musfay",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
